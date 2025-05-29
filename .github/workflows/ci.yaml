@@ -1,4 +1,4 @@
-name: ci-python
+name: ci
 on: [push]
 jobs:
   check-application:

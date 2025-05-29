@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: prova
+spec:
+  containers:
+    - name: prova
+      image: marianichelle/prova
+      ports:
+        - containerPort: 8000
