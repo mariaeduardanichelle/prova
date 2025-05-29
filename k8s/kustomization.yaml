@@ -6,7 +6,7 @@ resources:
 images:
 - name: hello-fastapi
   newName: marianichelle/prova
-  newTag: 38e785540c8d9facb404d1a2de7b6fabdedf734c
+  newTag: 0e60620d90db1e2cc9e763625b4216404ec0d49e
 - name: prova
   newName: marianichelle/prova
   newTag: c58b625834eb8b45c0d3d3b45ba4cbc288fc5146
